@@ -32,6 +32,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["modelbased", "effectsize", "correlation"],
+    "from": "modelbased"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["report", "effectsize"],
     "from": "report"
   },
@@ -76,6 +82,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["effectsize"],
     "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["modelbased"],
+    "from": "modelbased"
   },
   {
     "package": "datawizard",
@@ -128,6 +140,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["modelbased", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
   },
@@ -135,6 +153,18 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased", "effectsize", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelbased", "effectsize", "correlation"],
+    "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelbased", "effectsize", "correlation", "parameters"],
     "from": "modelbased"
   },
   {
@@ -206,7 +236,19 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["modelbased", "effectsize"],
+    "from": "modelbased"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["modelbased", "effectsize", "correlation"],
     "from": "modelbased"
   },
   {
