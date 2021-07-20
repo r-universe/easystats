@@ -32,12 +32,6 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["effectsize", "modelbased"],
-    "from": "effectsize"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
     "via": ["modelbased"],
     "from": "modelbased"
   },
@@ -86,12 +80,6 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
   },
@@ -100,12 +88,6 @@
     "url": "https://github.com/easystats/correlation",
     "via": ["report", "effectsize"],
     "from": "report"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize"],
-    "from": "effectsize"
   },
   {
     "package": "datawizard",
@@ -302,12 +284,6 @@
   {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
     "via": ["report", "effectsize"],
     "from": "report"
   },
@@ -430,18 +406,6 @@
     "url": "https://github.com/easystats/see",
     "via": ["datawizard", "effectsize"],
     "from": "datawizard"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["effectsize", "modelbased"],
-    "from": "effectsize"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["effectsize"],
-    "from": "effectsize"
   },
   {
     "package": "see",
