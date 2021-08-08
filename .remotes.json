@@ -380,6 +380,12 @@
   {
     "package": "see",
     "url": "https://github.com/easystats/see",
+    "via": ["correlation"],
+    "from": "correlation"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
     "via": ["modelbased"],
     "from": "modelbased"
   }
