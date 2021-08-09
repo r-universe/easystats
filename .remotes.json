@@ -44,6 +44,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters", "datawizard", "effectsize"],
+    "from": "parameters"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["report", "effectsize"],
     "from": "report"
   },
@@ -72,6 +78,12 @@
     "from": "modelbased"
   },
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["correlation", "datawizard"],
@@ -94,6 +106,12 @@
     "url": "https://github.com/easystats/effectsize",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["parameters", "datawizard"],
+    "from": "parameters"
   },
   {
     "package": "effectsize",
@@ -226,6 +244,18 @@
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased", "effectsize", "parameters"],
     "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters", "datawizard"],
+    "from": "parameters"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters", "datawizard", "effectsize"],
+    "from": "parameters"
   },
   {
     "package": "insight",
@@ -382,6 +412,18 @@
     "url": "https://github.com/easystats/performance",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["parameters", "datawizard"],
+    "from": "parameters"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["parameters", "datawizard", "effectsize"],
+    "from": "parameters"
   },
   {
     "package": "performance",
