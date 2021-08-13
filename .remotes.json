@@ -548,6 +548,18 @@
   {
     "package": "see",
     "url": "https://github.com/easystats/see",
+    "via": ["datawizard", "parameters"],
+    "from": "datawizard"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["datawizard", "effectsize", "parameters"],
+    "from": "datawizard"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
     "via": ["datawizard"],
     "from": "datawizard"
   },
