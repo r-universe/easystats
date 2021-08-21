@@ -291,6 +291,7 @@
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["correlation"],
+    "branch": "main",
     "from": "correlation"
   },
   {
