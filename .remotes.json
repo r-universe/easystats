@@ -8,6 +8,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["modelbased"],
     "from": "modelbased"
   },
@@ -136,6 +142,18 @@
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
     "from": "bayestestR"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "parameters", "bayestestR"],
+    "from": "effectsize"
   },
   {
     "package": "insight",
@@ -287,12 +305,6 @@
     "url": "https://github.com/easystats/see",
     "via": ["correlation"],
     "from": "correlation"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["effectsize", "parameters"],
-    "from": "effectsize"
   },
   {
     "package": "see",
