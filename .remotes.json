@@ -140,12 +140,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
     "from": "effectsize"
   },
