@@ -38,24 +38,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["correlation", "bayestestR"],
-    "from": "correlation"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["correlation", "parameters", "see"],
-    "from": "correlation"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["correlation", "see"],
-    "from": "correlation"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["effectsize", "performance"],
     "from": "effectsize"
   },
@@ -269,12 +251,6 @@
     "url": "https://github.com/easystats/performance",
     "via": ["report"],
     "from": "report"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["correlation", "parameters"],
-    "from": "correlation"
   },
   {
     "package": "see",
