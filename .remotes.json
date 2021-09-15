@@ -188,6 +188,12 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
+    "via": ["parameters", "effectsize"],
+    "from": "parameters"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["report", "effectsize", "parameters", "datawizard"],
     "from": "report"
   },
