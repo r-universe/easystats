@@ -176,6 +176,12 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
+    "via": ["effectsize"],
+    "from": "effectsize"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
   },
