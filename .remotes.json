@@ -80,6 +80,12 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["report"],
     "from": "report"
   },
