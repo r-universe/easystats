@@ -96,6 +96,12 @@
     "from": "parameters"
   },
   {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "see",
     "url": "https://github.com/easystats/see",
     "via": ["modelbased", "parameters"],
