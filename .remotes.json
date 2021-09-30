@@ -12,33 +12,9 @@
     "from": "modelbased"
   },
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "bayestestR"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "parameters", "see"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "effectsize", "parameters", "see"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "effectsize", "performance"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "see"],
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["modelbased", "parameters"],
     "from": "modelbased"
   },
   {
@@ -86,6 +62,24 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
+    "via": ["modelbased", "parameters", "effectsize"],
+    "from": "modelbased"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["modelbased", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["modelbased", "effectsize", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
   },
@@ -100,18 +94,6 @@
     "url": "https://github.com/easystats/performance",
     "via": ["parameters"],
     "from": "parameters"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["modelbased", "parameters"],
-    "from": "modelbased"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["modelbased", "effectsize", "parameters"],
-    "from": "modelbased"
   },
   {
     "package": "see",
