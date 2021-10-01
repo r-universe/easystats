@@ -42,12 +42,6 @@
     "from": "modelbased"
   },
   {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["modelbased", "effectsize"],
-    "from": "modelbased"
-  },
-  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["effectsize"],
@@ -63,12 +57,6 @@
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["modelbased", "parameters"],
-    "from": "modelbased"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["modelbased", "effectsize", "parameters"],
     "from": "modelbased"
   },
   {
