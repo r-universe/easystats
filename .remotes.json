@@ -12,6 +12,12 @@
     "from": "modelbased"
   },
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["modelbased", "parameters"],
@@ -30,16 +36,40 @@
     "from": "parameters"
   },
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
   },
   {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["report"],
+    "from": "report"
   },
   {
     "package": "performance",
@@ -78,9 +108,39 @@
     "from": "parameters"
   },
   {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report", "parameters", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report", "effectsize"],
+    "from": "report"
+  },
+  {
     "package": "see",
     "url": "https://github.com/easystats/see",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["report"],
+    "from": "report"
   }
 ]
