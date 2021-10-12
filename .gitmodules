@@ -38,19 +38,9 @@
 	url = https://github.com/easystats/see
 	shallow = true
 	registered = true
-[submodule "modelbased"]
-	path = modelbased
-	url = https://github.com/easystats/modelbased
-	shallow = true
-	registered = true
 [submodule "correlation"]
 	path = correlation
 	url = https://github.com/easystats/correlation
-	shallow = true
-	registered = true
-[submodule "report"]
-	path = report
-	url = https://github.com/easystats/report
 	shallow = true
 	registered = true
 [submodule "easystats"]
