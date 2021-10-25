@@ -80,6 +80,12 @@
   {
     "package": "see",
     "url": "https://github.com/easystats/see",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
     "via": ["report"],
     "from": "report"
   }
