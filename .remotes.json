@@ -1,17 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["modelbased"],
-    "from": "modelbased"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["modelbased", "parameters", "see"],
-    "from": "modelbased"
-  },
-  {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
     "via": ["modelbased", "see"],
@@ -32,20 +20,8 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["modelbased", "parameters"],
-    "from": "modelbased"
   },
   {
     "package": "effectsize",
@@ -80,20 +56,8 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["modelbased"],
-    "from": "modelbased"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["modelbased"],
-    "from": "modelbased"
   },
   {
     "package": "parameters",
@@ -124,12 +88,6 @@
     "url": "https://github.com/easystats/see",
     "via": ["correlation"],
     "from": "correlation"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["modelbased", "parameters"],
-    "from": "modelbased"
   },
   {
     "package": "see",
