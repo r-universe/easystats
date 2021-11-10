@@ -8,12 +8,6 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["report", "parameters", "see", "correlation"],
-    "from": "report"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
     "via": ["report", "see", "correlation"],
     "from": "report"
   },
@@ -22,12 +16,6 @@
     "url": "https://github.com/easystats/bayestestR",
     "via": ["see", "correlation"],
     "from": "see"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["report", "parameters", "see"],
-    "from": "report"
   },
   {
     "package": "correlation",
@@ -51,12 +39,6 @@
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["report", "parameters", "see", "correlation"],
     "from": "report"
   },
   {
@@ -146,13 +128,25 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["report", "parameters", "see", "correlation"],
+    "via": ["report", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report", "see", "parameters"],
     "from": "report"
   },
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["report", "see", "correlation"],
+    "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report", "see", "correlation", "parameters"],
     "from": "report"
   },
   {
@@ -220,12 +214,6 @@
     "url": "https://github.com/easystats/see",
     "via": ["correlation"],
     "from": "correlation"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["report", "parameters"],
-    "from": "report"
   },
   {
     "package": "see",
