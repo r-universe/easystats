@@ -152,7 +152,25 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["see"],
+    "from": "see"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["see", "parameters"],
+    "from": "see"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["see", "correlation"],
+    "from": "see"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["see", "correlation", "parameters"],
     "from": "see"
   },
   {
