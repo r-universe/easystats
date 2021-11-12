@@ -152,6 +152,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["report", "see"],
+    "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["report", "see", "parameters"],
     "from": "report"
   },
