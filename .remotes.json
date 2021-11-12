@@ -116,6 +116,24 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["correlation", "parameters"],
+    "from": "correlation"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["correlation", "see"],
+    "from": "correlation"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["correlation", "see", "parameters"],
+    "from": "correlation"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
   },
@@ -220,12 +238,6 @@
     "url": "https://github.com/easystats/performance",
     "via": ["report"],
     "from": "report"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["correlation", "parameters"],
-    "from": "correlation"
   },
   {
     "package": "see",
