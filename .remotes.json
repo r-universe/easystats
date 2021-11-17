@@ -50,6 +50,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["see"],
+    "from": "see"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["see", "correlation"],
     "from": "see"
   },
@@ -99,6 +105,12 @@
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["see", "parameters"],
+    "from": "see"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["see"],
     "from": "see"
   },
   {
