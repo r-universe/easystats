@@ -80,7 +80,43 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "parameters", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "parameters", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["report", "see", "correlation"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "correlation", "parameters", "effectsize"],
     "from": "report"
   },
   {
@@ -153,6 +189,12 @@
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["report", "see", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report", "see"],
     "from": "report"
   },
   {
@@ -236,6 +278,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["report", "effectsize", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["report", "see"],
     "from": "report"
   },
@@ -243,6 +291,12 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["report", "see", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report", "see", "effectsize", "parameters"],
     "from": "report"
   },
   {
@@ -320,7 +374,19 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["report", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["report", "see"],
+    "from": "report"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["report", "see", "effectsize"],
     "from": "report"
   },
   {
