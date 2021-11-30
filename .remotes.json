@@ -38,7 +38,25 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["correlation", "parameters", "effectsize"],
+    "from": "correlation"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["correlation", "see"],
+    "from": "correlation"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["correlation", "see", "parameters", "effectsize"],
+    "from": "correlation"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["correlation", "see", "effectsize"],
     "from": "correlation"
   },
   {
@@ -164,6 +182,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["correlation", "see", "effectsize", "parameters"],
+    "from": "correlation"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
     "from": "effectsize"
   },
@@ -243,6 +267,12 @@
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["correlation", "see"],
+    "from": "correlation"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["correlation", "see", "effectsize"],
     "from": "correlation"
   },
   {
