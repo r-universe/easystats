@@ -68,6 +68,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["parameters", "effectsize"],
     "from": "parameters"
   },
