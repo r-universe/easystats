@@ -92,7 +92,19 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["report", "parameters", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "effectsize", "parameters"],
     "from": "report"
   },
   {
@@ -110,7 +122,19 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "parameters"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["report", "see", "parameters", "effectsize"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "effectsize", "parameters"],
     "from": "report"
   },
   {
@@ -123,6 +147,12 @@
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["report", "see", "correlation"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "correlation", "parameters"],
     "from": "report"
   },
   {
