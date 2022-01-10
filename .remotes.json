@@ -68,12 +68,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
   },
@@ -200,12 +194,6 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
     "via": ["report", "parameters"],
     "from": "report"
   },
@@ -292,12 +280,6 @@
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
   },
   {
     "package": "insight",
