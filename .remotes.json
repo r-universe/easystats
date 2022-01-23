@@ -1,11 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["report", "see", "correlation"],
-    "from": "report"
-  },
-  {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
     "via": ["report", "see"],
@@ -26,7 +20,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["report", "see", "correlation"],
+    "via": ["report", "see"],
     "from": "report"
   },
   {
@@ -48,21 +42,9 @@
     "from": "report"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["report", "see", "correlation"],
-    "from": "report"
-  },
-  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["report", "see", "correlation"],
     "from": "report"
   },
   {
