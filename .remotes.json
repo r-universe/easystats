@@ -2,61 +2,13 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
-    "via": ["report", "see"],
-    "from": "report"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
     "via": ["see"],
     "from": "see"
   },
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["report", "see"],
-    "from": "report"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["see"],
     "from": "see"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["report"],
-    "from": "report"
   }
 ]
