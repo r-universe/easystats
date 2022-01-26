@@ -8,12 +8,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["see"],
     "from": "see"
   }
