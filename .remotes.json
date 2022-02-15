@@ -1,17 +1,5 @@
 [
   {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["see"],
-    "from": "see"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["see"],
-    "from": "see"
-  },
-  {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
     "via": ["report"],
