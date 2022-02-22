@@ -6,12 +6,6 @@
     "from": "easystats"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
     "package": "report",
     "url": "https://github.com/easystats/report",
     "via": ["easystats"],
