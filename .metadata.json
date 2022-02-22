@@ -36,7 +36,8 @@
     "oncran": true
   },
   {
-    "package": "report"
+    "package": "report",
+    "oncran": false
   },
   {
     "package": "easystats"
