@@ -1,20 +1,8 @@
 [
   {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["easystats", "report"],
-    "from": "easystats"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
     "from": "effectsize"
-  },
-  {
-    "package": "report",
-    "url": "https://github.com/easystats/report",
-    "via": ["easystats"],
-    "from": "easystats"
   }
 ]
