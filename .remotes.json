@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
     "from": "effectsize"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["see"],
+    "from": "see"
   }
 ]
