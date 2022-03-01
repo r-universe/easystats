@@ -6,6 +6,12 @@
     "from": "effectsize"
   },
   {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
