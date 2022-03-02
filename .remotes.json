@@ -7,6 +7,13 @@
     "from": "insight"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["parameters"],
+    "subdir": "glmmTMB",
+    "from": "parameters"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
