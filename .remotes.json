@@ -1,19 +1,5 @@
 [
   {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["performance", "insight"],
-    "subdir": "glmmTMB",
-    "from": "performance"
-  },
-  {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["performance"],
-    "subdir": "glmmTMB",
-    "from": "performance"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
