@@ -58,3 +58,9 @@
 	url = https://github.com/easystats/easystats
 	shallow = true
 	registered = true
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	shallow = true
+	subdir = glmmTMB
+	registered = false
