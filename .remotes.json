@@ -2,13 +2,6 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["parameters"],
-    "subdir": "glmmTMB",
-    "from": "parameters"
-  },
-  {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["performance", "insight"],
     "subdir": "glmmTMB",
     "from": "performance"
