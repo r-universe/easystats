@@ -42,6 +42,12 @@
     "from": "see"
   },
   {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["effectsize"],
