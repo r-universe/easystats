@@ -56,6 +56,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "bayestestR"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
   },
