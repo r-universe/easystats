@@ -8,6 +8,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["modelbased", "effectsize"],
     "from": "modelbased"
   },
@@ -93,6 +99,12 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased", "datawizard"],
+    "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["modelbased", "bayestestR"],
     "from": "modelbased"
   },
   {
