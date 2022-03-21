@@ -32,6 +32,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize", "bayestestR"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["modelbased"],
     "from": "modelbased"
   },
@@ -111,6 +117,12 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "bayestestR"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "bayestestR", "datawizard"],
     "from": "effectsize"
   },
   {
