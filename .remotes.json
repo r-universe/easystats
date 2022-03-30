@@ -32,12 +32,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR", "datawizard"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
     "from": "effectsize"
   },
