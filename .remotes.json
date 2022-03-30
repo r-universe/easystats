@@ -24,12 +24,6 @@
     "from": "effectsize"
   },
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased"],
-    "from": "modelbased"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
@@ -70,12 +64,6 @@
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "bayestestR", "datawizard"],
     "from": "effectsize"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["modelbased", "datawizard"],
-    "from": "modelbased"
   },
   {
     "package": "insight",
@@ -124,12 +112,6 @@
     "url": "https://github.com/easystats/performance",
     "via": ["effectsize"],
     "from": "effectsize"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["modelbased"],
-    "from": "modelbased"
   },
   {
     "package": "performance",
