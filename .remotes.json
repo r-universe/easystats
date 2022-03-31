@@ -66,6 +66,12 @@
     "from": "report"
   },
   {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["see"],
+    "from": "see"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["effectsize"],
