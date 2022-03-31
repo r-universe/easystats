@@ -66,18 +66,6 @@
     "from": "report"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see"],
-    "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see", "performance"],
-    "from": "see"
-  },
-  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["effectsize"],
@@ -94,11 +82,5 @@
     "url": "https://github.com/easystats/performance",
     "via": ["effectsize"],
     "from": "effectsize"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["see"],
-    "from": "see"
   }
 ]
