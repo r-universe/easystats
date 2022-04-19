@@ -14,6 +14,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["parameters", "datawizard"],
     "from": "parameters"
   },
