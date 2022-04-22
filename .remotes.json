@@ -8,6 +8,30 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "performance", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "parameters", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["effectsize"],
     "from": "effectsize"
   },
@@ -32,13 +56,19 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize"],
+    "via": ["effectsize", "performance"],
     "from": "effectsize"
   },
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize", "bayestestR"],
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize"],
     "from": "effectsize"
   },
   {
@@ -63,24 +93,6 @@
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
-    "from": "effectsize"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["effectsize", "datawizard"],
-    "from": "effectsize"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["effectsize", "bayestestR"],
-    "from": "effectsize"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["effectsize", "bayestestR", "datawizard"],
     "from": "effectsize"
   },
   {
