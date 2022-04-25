@@ -98,6 +98,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["datawizard"],
+    "from": "datawizard"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
     "from": "effectsize"
   },
