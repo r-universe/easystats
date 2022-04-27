@@ -128,6 +128,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["performance", "datawizard"],
+    "from": "performance"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
   },
