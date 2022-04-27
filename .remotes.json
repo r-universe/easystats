@@ -122,6 +122,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["parameters", "datawizard"],
+    "from": "parameters"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
   },
