@@ -128,7 +128,25 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "performance", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "parameters", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "datawizard"],
     "from": "effectsize"
   },
   {
