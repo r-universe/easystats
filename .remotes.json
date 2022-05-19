@@ -38,12 +38,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["correlation"],
-    "from": "correlation"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["effectsize", "performance"],
     "from": "effectsize"
   },
