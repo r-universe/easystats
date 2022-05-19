@@ -2,12 +2,6 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["correlation", "datawizard"],
-    "from": "correlation"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
     "via": ["effectsize", "performance", "datawizard"],
     "from": "effectsize"
   },
@@ -76,12 +70,6 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["see", "performance"],
     "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["correlation", "datawizard"],
-    "from": "correlation"
   },
   {
     "package": "insight",
