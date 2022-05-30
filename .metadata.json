@@ -28,7 +28,8 @@
     "oncran": true
   },
   {
-    "package": "modelbased"
+    "package": "modelbased",
+    "oncran": true
   },
   {
     "package": "correlation",
