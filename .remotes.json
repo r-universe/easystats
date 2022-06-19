@@ -1,11 +1,5 @@
 [
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["see", "performance"],
-    "from": "see"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
@@ -16,11 +10,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["see"],
-    "from": "see"
   }
 ]
