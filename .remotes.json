@@ -2,6 +2,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["performance"],
     "from": "performance"
   },
@@ -16,11 +22,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
     "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
   }
 ]
