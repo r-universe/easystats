@@ -6,6 +6,12 @@
     "from": "effectsize"
   },
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["performance"],
+    "from": "performance"
+  },
+  {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
     "via": ["effectsize"],
@@ -106,6 +112,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["performance", "bayestestR"],
+    "from": "performance"
   },
   {
     "package": "insight",
