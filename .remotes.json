@@ -176,6 +176,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["performance"],
+    "from": "performance"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["performance", "bayestestR"],
     "from": "performance"
   },
