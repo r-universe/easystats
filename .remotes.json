@@ -80,6 +80,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["parameters"],
     "from": "parameters"
   },
