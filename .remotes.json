@@ -32,6 +32,12 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
+    "via": ["performance", "see"],
+    "from": "performance"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
     "via": ["see"],
     "from": "see"
   },
@@ -76,6 +82,18 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["parameters"],
     "from": "parameters"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["performance", "see"],
+    "from": "performance"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["performance", "see", "parameters"],
+    "from": "performance"
   },
   {
     "package": "datawizard",
@@ -164,6 +182,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["performance", "see", "parameters"],
+    "from": "performance"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["see", "correlation"],
     "from": "see"
   },
@@ -206,6 +230,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["performance", "see"],
+    "from": "performance"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["see", "correlation"],
     "from": "see"
   },
@@ -226,5 +256,11 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["performance"],
+    "from": "performance"
   }
 ]
