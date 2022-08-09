@@ -80,12 +80,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["performance", "see", "parameters"],
-    "from": "performance"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["see", "parameters"],
     "from": "see"
   },
