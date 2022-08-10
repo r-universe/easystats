@@ -12,22 +12,10 @@
     "from": "effectsize"
   },
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["see", "performance"],
-    "from": "see"
-  },
-  {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
     "via": ["effectsize"],
     "from": "effectsize"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["see"],
-    "from": "see"
   },
   {
     "package": "datawizard",
@@ -66,12 +54,6 @@
     "from": "modelbased"
   },
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["see", "parameters"],
-    "from": "see"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
@@ -108,24 +90,6 @@
     "from": "effectsize"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see", "parameters"],
-    "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see", "performance"],
-    "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see", "performance", "bayestestR"],
-    "from": "see"
-  },
-  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["effectsize"],
@@ -138,21 +102,9 @@
     "from": "effectsize"
   },
   {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["see"],
-    "from": "see"
-  },
-  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["effectsize"],
     "from": "effectsize"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["see"],
-    "from": "see"
   }
 ]
