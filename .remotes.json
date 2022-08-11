@@ -4,5 +4,17 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["see", "modelbased"],
+    "from": "see"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["see"],
+    "from": "see"
   }
 ]
