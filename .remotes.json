@@ -1,8 +1,8 @@
 [
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["see", "modelbased"],
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["see"],
     "from": "see"
   },
   {
