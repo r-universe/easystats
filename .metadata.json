@@ -41,6 +41,6 @@
   },
   {
     "package": "easystats",
-    "oncran": false
+    "oncran": true
   }
 ]
