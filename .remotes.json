@@ -1,7 +1,7 @@
 [
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["parameters"],
     "from": "parameters"
   },
