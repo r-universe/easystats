@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/effectsize",
     "via": ["parameters"],
     "from": "parameters"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["effectsize"],
+    "from": "effectsize"
   }
 ]
