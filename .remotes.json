@@ -1,9 +1,0 @@
-[
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "branch": "revise_get_data",
-    "from": "bayestestR"
-  }
-]
