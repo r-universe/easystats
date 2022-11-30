@@ -5,12 +5,5 @@
     "via": ["bayestestR"],
     "branch": "revise_get_data",
     "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["datawizard"],
-    "branch": "revise_get_data",
-    "from": "datawizard"
   }
 ]
