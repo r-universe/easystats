@@ -1,18 +1,5 @@
 [
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["performance"],
-    "from": "performance"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["performance"],
-    "branch": "revise_get_data",
-    "from": "performance"
-  },
-  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["parameters"],
