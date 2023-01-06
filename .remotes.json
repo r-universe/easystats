@@ -1,8 +1,0 @@
-[
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["parameters"],
-    "from": "parameters"
-  }
-]
