@@ -1,0 +1,8 @@
+[
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report"],
+    "from": "report"
+  }
+]
