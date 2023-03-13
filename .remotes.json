@@ -44,6 +44,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["performance", "parameters"],
+    "from": "performance"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["performance", "see"],
     "from": "performance"
   },
@@ -64,6 +70,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["see", "parameters"],
     "from": "see"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["performance"],
+    "from": "performance"
   },
   {
     "package": "parameters",
