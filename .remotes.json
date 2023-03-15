@@ -44,6 +44,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["easystats"],
+    "from": "easystats"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["parameters"],
     "from": "parameters"
   },
