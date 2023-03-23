@@ -38,12 +38,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["parameters", "see"],
     "from": "parameters"
   },
