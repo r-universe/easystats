@@ -6,18 +6,6 @@
     "from": "see"
   },
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["easystats"],
-    "from": "easystats"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["easystats"],
-    "from": "easystats"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
