@@ -8,12 +8,6 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
-    "via": ["performance"],
-    "from": "performance"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
     "via": ["see", "performance"],
     "from": "see"
   },
