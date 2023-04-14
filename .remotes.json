@@ -6,6 +6,12 @@
     "from": "see"
   },
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["see", "performance"],
