@@ -2,6 +2,12 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
+    "via": ["performance", "see"],
+    "from": "performance"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
     "via": ["see"],
     "from": "see"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["performance"],
+    "from": "performance"
   },
   {
     "package": "parameters",
@@ -22,5 +34,11 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["performance"],
+    "from": "performance"
   }
 ]
