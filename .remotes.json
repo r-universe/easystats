@@ -1,15 +1,15 @@
 [
   {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["performance", "see"],
-    "from": "performance"
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["see"],
+    "from": "see"
   },
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
-    "via": ["see"],
-    "from": "see"
+    "via": ["performance", "see"],
+    "from": "performance"
   },
   {
     "package": "datawizard",
