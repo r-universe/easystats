@@ -2,12 +2,6 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["performance", "see"],
-    "from": "performance"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
     "via": ["see"],
     "from": "see"
   },
@@ -22,11 +16,5 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["performance"],
-    "from": "performance"
   }
 ]
