@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
   }
 ]
