@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/easystats/universe
-	shallow = true
 	branch = HEAD
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
-	shallow = true
-	registered = true
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/easystats/datawizard
-	shallow = true
-	registered = true
 [submodule "bayestestR"]
 	path = bayestestR
 	url = https://github.com/easystats/bayestestR
-	shallow = true
-	registered = true
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
-	shallow = true
-	registered = true
 [submodule "parameters"]
 	path = parameters
 	url = https://github.com/easystats/parameters
-	shallow = true
-	registered = true
 [submodule "performance"]
 	path = performance
 	url = https://github.com/easystats/performance
-	shallow = true
-	registered = true
 [submodule "see"]
 	path = see
 	url = https://github.com/easystats/see
-	shallow = true
-	registered = true
 [submodule "modelbased"]
 	path = modelbased
 	url = https://github.com/easystats/modelbased
-	shallow = true
-	registered = true
 [submodule "correlation"]
 	path = correlation
 	url = https://github.com/easystats/correlation
-	shallow = true
-	registered = true
 [submodule "report"]
 	path = report
 	url = https://github.com/easystats/report
-	shallow = true
-	registered = true
 [submodule "easystats"]
 	path = easystats
 	url = https://github.com/easystats/easystats
-	shallow = true
-	registered = true
