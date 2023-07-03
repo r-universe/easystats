@@ -35,3 +35,7 @@
 [submodule "easystats"]
 	path = easystats
 	url = https://github.com/easystats/easystats
+[submodule "emmeans"]
+	path = emmeans
+	url = https://github.com/rvlenth/emmeans
+	registered = false
