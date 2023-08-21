@@ -1,5 +1,11 @@
 [
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "emmeans",
     "url": "https://github.com/rvlenth/emmeans",
     "via": ["bayestestR"],
