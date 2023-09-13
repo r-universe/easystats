@@ -26,12 +26,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["datawizard"],
-    "from": "datawizard"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["easystats"],
     "from": "easystats"
   },
