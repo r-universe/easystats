@@ -50,7 +50,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["performance"],
+    "via": ["performance", "see"],
     "from": "performance"
   },
   {
@@ -64,5 +64,11 @@
     "url": "https://github.com/easystats/insight",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["performance"],
+    "from": "performance"
   }
 ]
