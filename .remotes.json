@@ -60,6 +60,13 @@
     "from": "see"
   },
   {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["performance"],
+    "branch": "903",
+    "from": "performance"
+  },
+  {
     "package": "see",
     "url": "https://github.com/easystats/see",
     "via": ["performance"],
