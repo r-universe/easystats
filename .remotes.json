@@ -63,7 +63,7 @@
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["performance"],
-    "branch": "rc_0.21.2",
+    "branch": "pca_with_n1",
     "from": "performance"
   },
   {
