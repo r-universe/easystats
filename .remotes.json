@@ -54,13 +54,6 @@
     "from": "see"
   },
   {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["performance"],
-    "branch": "pca_with_n1",
-    "from": "performance"
-  },
-  {
     "package": "see",
     "url": "https://github.com/easystats/see",
     "via": ["performance"],
