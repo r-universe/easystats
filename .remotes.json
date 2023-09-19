@@ -33,6 +33,13 @@
     "from": "performance"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["report", "insight"],
+    "subdir": "glmmTMB",
+    "from": "report"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
