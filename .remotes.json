@@ -12,6 +12,13 @@
     "from": "bayestestR"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["insight"],
+    "subdir": "glmmTMB",
+    "from": "insight"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
