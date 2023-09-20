@@ -40,6 +40,13 @@
     "from": "report"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["see", "insight"],
+    "subdir": "glmmTMB",
+    "from": "see"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
