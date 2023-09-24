@@ -28,6 +28,13 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["easystats", "insight"],
+    "subdir": "glmmTMB",
+    "from": "easystats"
+  },
+  {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["insight"],
     "subdir": "glmmTMB",
     "from": "insight"
