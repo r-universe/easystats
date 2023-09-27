@@ -42,6 +42,13 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["modelbased", "insight"],
+    "subdir": "glmmTMB",
+    "from": "modelbased"
+  },
+  {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["performance", "see", "insight"],
     "subdir": "glmmTMB",
     "from": "performance"
