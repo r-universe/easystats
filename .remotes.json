@@ -49,6 +49,13 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["parameters", "insight"],
+    "subdir": "glmmTMB",
+    "from": "parameters"
+  },
+  {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["performance", "see", "insight"],
     "subdir": "glmmTMB",
     "from": "performance"
@@ -90,6 +97,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
   },
   {
     "package": "insight",
