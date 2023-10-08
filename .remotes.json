@@ -38,13 +38,6 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["bayestestR", "insight"],
-    "subdir": "glmmTMB",
-    "from": "bayestestR"
-  },
-  {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["correlation", "insight"],
     "subdir": "glmmTMB",
     "from": "correlation"
