@@ -59,13 +59,6 @@
   {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["performance", "see", "insight"],
-    "subdir": "glmmTMB",
-    "from": "performance"
-  },
-  {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["report", "insight"],
     "subdir": "glmmTMB",
     "from": "report"
