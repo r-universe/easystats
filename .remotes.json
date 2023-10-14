@@ -36,6 +36,12 @@
     "from": "see"
   },
   {
+    "package": "ggeffects",
+    "url": "https://github.com/strengejacke/ggeffects",
+    "via": ["insight"],
+    "from": "insight"
+  },
+  {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["correlation", "insight"],

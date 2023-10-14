@@ -21,6 +21,10 @@
 	path = emmeans
 	url = https://github.com/rvlenth/emmeans
 	registered = false
+[submodule "ggeffects"]
+	path = ggeffects
+	url = https://github.com/strengejacke/ggeffects
+	registered = false
 [submodule "glmmTMB"]
 	path = glmmTMB
 	url = https://github.com/glmmTMB/glmmTMB
