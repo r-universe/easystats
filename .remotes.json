@@ -26,6 +26,12 @@
   {
     "package": "ggeffects",
     "url": "https://github.com/strengejacke/ggeffects",
+    "via": ["easystats", "insight"],
+    "from": "easystats"
+  },
+  {
+    "package": "ggeffects",
+    "url": "https://github.com/strengejacke/ggeffects",
     "via": ["insight"],
     "from": "insight"
   },
@@ -35,13 +41,6 @@
     "via": ["correlation", "insight"],
     "subdir": "glmmTMB",
     "from": "correlation"
-  },
-  {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["easystats", "insight"],
-    "subdir": "glmmTMB",
-    "from": "easystats"
   },
   {
     "package": "glmmTMB",
