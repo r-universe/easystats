@@ -50,12 +50,6 @@
   {
     "package": "ggeffects",
     "url": "https://github.com/strengejacke/ggeffects",
-    "via": ["insight"],
-    "from": "insight"
-  },
-  {
-    "package": "ggeffects",
-    "url": "https://github.com/strengejacke/ggeffects",
     "via": ["report", "insight"],
     "from": "report"
   },
