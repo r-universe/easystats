@@ -54,12 +54,6 @@
     "from": "report"
   },
   {
-    "package": "ggeffects",
-    "url": "https://github.com/strengejacke/ggeffects",
-    "via": ["see", "bayestestR", "insight"],
-    "from": "see"
-  },
-  {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["correlation", "insight"],
