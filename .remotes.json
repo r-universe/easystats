@@ -6,12 +6,6 @@
     "from": "report"
   },
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["see"],
-    "from": "see"
-  },
-  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
@@ -34,12 +28,6 @@
     "url": "https://github.com/rvlenth/emmeans",
     "via": ["report", "bayestestR"],
     "from": "report"
-  },
-  {
-    "package": "emmeans",
-    "url": "https://github.com/rvlenth/emmeans",
-    "via": ["see", "bayestestR"],
-    "from": "see"
   },
   {
     "package": "ggeffects",
@@ -96,12 +84,6 @@
     "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["see", "bayestestR"],
-    "from": "see"
   },
   {
     "package": "parameters",
