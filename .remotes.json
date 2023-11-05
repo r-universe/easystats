@@ -30,12 +30,6 @@
     "from": "report"
   },
   {
-    "package": "ggeffects",
-    "url": "https://github.com/strengejacke/ggeffects",
-    "via": ["report", "insight"],
-    "from": "report"
-  },
-  {
     "package": "glmmTMB",
     "url": "https://github.com/glmmTMB/glmmTMB",
     "via": ["correlation", "insight"],
