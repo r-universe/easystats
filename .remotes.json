@@ -1,33 +1,9 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
     "package": "emmeans",
     "url": "https://github.com/rvlenth/emmeans",
     "via": ["bayestestR"],
     "from": "bayestestR"
-  },
-  {
-    "package": "emmeans",
-    "url": "https://github.com/rvlenth/emmeans",
-    "via": ["report", "bayestestR"],
-    "from": "report"
   },
   {
     "package": "glmmTMB",
@@ -66,23 +42,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["performance"],
     "from": "performance"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["report"],
-    "from": "report"
   }
 ]
