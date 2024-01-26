@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/easystats/universe
+	url = https://github.com/easystats/easystats.r-universe.dev
 	branch = HEAD
 [submodule "bayestestR"]
 	path = bayestestR
