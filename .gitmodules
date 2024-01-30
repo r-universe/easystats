@@ -21,11 +21,6 @@
 	path = emmeans
 	url = https://github.com/rvlenth/emmeans
 	registered = false
-[submodule "glmmTMB"]
-	path = glmmTMB
-	url = https://github.com/glmmTMB/glmmTMB
-	subdir = glmmTMB
-	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

@@ -6,13 +6,6 @@
     "from": "bayestestR"
   },
   {
-    "package": "glmmTMB",
-    "url": "https://github.com/glmmTMB/glmmTMB",
-    "via": ["correlation", "insight"],
-    "subdir": "glmmTMB",
-    "from": "correlation"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
