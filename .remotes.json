@@ -1,9 +1,21 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["see"],
+    "from": "see"
+  },
+  {
     "package": "emmeans",
     "url": "https://github.com/rvlenth/emmeans",
     "via": ["bayestestR"],
     "from": "bayestestR"
+  },
+  {
+    "package": "emmeans",
+    "url": "https://github.com/rvlenth/emmeans",
+    "via": ["see", "bayestestR"],
+    "from": "see"
   },
   {
     "package": "insight",
@@ -34,5 +46,11 @@
     "url": "https://github.com/easystats/insight",
     "via": ["performance"],
     "from": "performance"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["see", "bayestestR"],
+    "from": "see"
   }
 ]
