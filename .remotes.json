@@ -62,7 +62,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["see", "parameters"],
+    "via": ["see", "bayestestR"],
     "from": "see"
   },
   {
