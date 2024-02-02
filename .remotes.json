@@ -2,6 +2,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters", "see"],
+    "from": "parameters"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["see"],
     "from": "see"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/rvlenth/emmeans",
     "via": ["bayestestR"],
     "from": "bayestestR"
+  },
+  {
+    "package": "emmeans",
+    "url": "https://github.com/rvlenth/emmeans",
+    "via": ["parameters", "see", "bayestestR"],
+    "from": "parameters"
   },
   {
     "package": "emmeans",
@@ -38,7 +50,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
+    "via": ["parameters", "see", "bayestestR"],
     "from": "parameters"
   },
   {
@@ -58,5 +70,11 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["parameters"],
+    "from": "parameters"
   }
 ]
