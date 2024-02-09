@@ -1,17 +1,5 @@
 [
   {
-    "package": "emmeans",
-    "url": "https://github.com/rvlenth/emmeans",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["correlation"],
