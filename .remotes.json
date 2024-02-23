@@ -4,5 +4,11 @@
     "url": "https://github.com/easystats/insight",
     "via": ["correlation"],
     "from": "correlation"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
   }
 ]
