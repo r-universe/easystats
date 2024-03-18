@@ -10,5 +10,11 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["performance"],
+    "from": "performance"
   }
 ]
