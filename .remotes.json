@@ -16,11 +16,5 @@
     "url": "https://github.com/easystats/see",
     "via": ["easystats", "performance"],
     "from": "easystats"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["performance"],
-    "from": "performance"
   }
 ]
