@@ -20,7 +20,7 @@
   {
     "package": "see",
     "url": "https://github.com/easystats/see",
-    "via": ["easystats", "performance"],
+    "via": ["easystats"],
     "from": "easystats"
   }
 ]
