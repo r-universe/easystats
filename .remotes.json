@@ -12,6 +12,12 @@
     "from": "parameters"
   },
   {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["performance"],
+    "from": "performance"
+  },
+  {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["datawizard"],
