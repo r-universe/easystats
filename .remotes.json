@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["performance"],
+    "from": "performance"
+  },
+  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["bayestestR"],
@@ -57,6 +63,12 @@
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["performance", "datawizard"],
+    "from": "performance"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["performance"],
     "from": "performance"
   },
   {
