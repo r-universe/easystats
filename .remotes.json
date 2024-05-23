@@ -14,7 +14,7 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["performance"],
+    "via": ["performance", "parameters"],
     "from": "performance"
   },
   {
