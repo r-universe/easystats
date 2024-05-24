@@ -24,6 +24,12 @@
     "from": "performance"
   },
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["report", "datawizard", "modelbased", "parameters", "performance"],
+    "from": "report"
+  },
+  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["bayestestR"],
@@ -52,6 +58,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["performance"],
     "from": "performance"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["report"],
+    "from": "report"
   },
   {
     "package": "insight",
@@ -96,6 +108,12 @@
     "from": "performance"
   },
   {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["bayestestR", "datawizard"],
@@ -126,6 +144,12 @@
     "from": "performance"
   },
   {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["report", "datawizard"],
+    "from": "report"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["easystats", "performance", "datawizard", "modelbased"],
@@ -144,6 +168,12 @@
     "from": "performance"
   },
   {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["report", "datawizard", "modelbased"],
+    "from": "report"
+  },
+  {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
     "via": ["easystats"],
@@ -160,6 +190,12 @@
     "url": "https://github.com/easystats/performance",
     "via": ["parameters", "datawizard", "modelbased"],
     "from": "parameters"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report", "datawizard", "modelbased", "parameters"],
+    "from": "report"
   },
   {
     "package": "see",
