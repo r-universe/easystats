@@ -8,7 +8,7 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters", "performance"],
+    "via": ["parameters", "datawizard", "modelbased", "performance"],
     "from": "parameters"
   },
   {
@@ -128,7 +128,7 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["parameters"],
+    "via": ["parameters", "datawizard", "modelbased"],
     "from": "parameters"
   },
   {
