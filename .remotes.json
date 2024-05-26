@@ -2,6 +2,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["correlation", "datawizard", "modelbased", "parameters", "performance"],
+    "from": "correlation"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["datawizard", "modelbased", "parameters", "performance"],
     "from": "datawizard"
   },
@@ -44,6 +50,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["correlation"],
+    "from": "correlation"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["easystats", "performance"],
     "from": "easystats"
   },
@@ -70,6 +82,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["correlation", "datawizard", "modelbased", "parameters"],
+    "from": "correlation"
   },
   {
     "package": "effectsize",
@@ -134,6 +152,12 @@
   {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
+    "via": ["correlation", "datawizard"],
+    "from": "correlation"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
     "via": ["datawizard"],
     "from": "datawizard"
   },
@@ -164,6 +188,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["correlation", "datawizard", "modelbased"],
+    "from": "correlation"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["datawizard", "modelbased"],
     "from": "datawizard"
   },
@@ -190,6 +220,12 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["report", "datawizard", "modelbased"],
     "from": "report"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["correlation", "datawizard", "modelbased", "parameters"],
+    "from": "correlation"
   },
   {
     "package": "performance",
