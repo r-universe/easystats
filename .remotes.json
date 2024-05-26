@@ -72,6 +72,12 @@
     "from": "report"
   },
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
