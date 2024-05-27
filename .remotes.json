@@ -20,6 +20,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize", "datawizard", "modelbased", "parameters", "performance"],
+    "from": "effectsize"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["modelbased", "parameters", "performance"],
     "from": "modelbased"
   },
@@ -58,6 +64,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["easystats", "performance"],
     "from": "easystats"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize"],
+    "from": "effectsize"
   },
   {
     "package": "datawizard",
@@ -124,6 +136,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["easystats", "performance"],
     "from": "easystats"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize"],
+    "from": "effectsize"
   },
   {
     "package": "insight",
@@ -176,6 +194,12 @@
   {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
+    "via": ["effectsize", "datawizard"],
+    "from": "effectsize"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
     "via": ["parameters", "datawizard"],
     "from": "parameters"
   },
@@ -212,6 +236,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["effectsize", "datawizard", "modelbased"],
+    "from": "effectsize"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["modelbased"],
     "from": "modelbased"
   },
@@ -244,6 +274,12 @@
     "url": "https://github.com/easystats/performance",
     "via": ["easystats"],
     "from": "easystats"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["effectsize", "datawizard", "modelbased", "parameters"],
+    "from": "effectsize"
   },
   {
     "package": "performance",
