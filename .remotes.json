@@ -92,6 +92,12 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
+    "via": ["datawizard", "modelbased", "parameters"],
+    "from": "datawizard"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["parameters"],
     "from": "parameters"
   },
