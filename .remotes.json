@@ -120,6 +120,12 @@
     "from": "parameters"
   },
   {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report", "datawizard", "modelbased", "parameters"],
+    "from": "report"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
