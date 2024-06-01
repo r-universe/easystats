@@ -116,6 +116,12 @@
   {
     "package": "effectsize",
     "url": "https://github.com/easystats/effectsize",
+    "via": ["modelbased", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
     "via": ["parameters"],
     "from": "parameters"
   },
