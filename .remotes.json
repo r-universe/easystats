@@ -86,6 +86,12 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
+    "via": ["insight"],
+    "from": "insight"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
     "via": ["report", "datawizard", "modelbased", "parameters"],
     "from": "report"
   }
