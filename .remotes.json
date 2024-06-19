@@ -86,7 +86,7 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["effectsize"],
+    "via": ["effectsize", "insight"],
     "from": "effectsize"
   },
   {
