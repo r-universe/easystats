@@ -20,12 +20,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["effectsize"],
     "from": "effectsize"
   },
@@ -53,12 +47,6 @@
     "via": ["see"],
     "branch": "CRAN-0.8.9",
     "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
   },
   {
     "package": "insight",
@@ -113,12 +101,6 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["see", "effectsize"],
     "from": "see"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["bayestestR", "insight"],
-    "from": "bayestestR"
   },
   {
     "package": "performance",
