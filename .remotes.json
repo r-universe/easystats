@@ -6,13 +6,6 @@
     "from": "parameters"
   },
   {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["see"],
-    "branch": "CRAN-0.8.9",
-    "from": "see"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
