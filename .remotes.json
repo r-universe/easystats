@@ -20,12 +20,6 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["insight"],
-    "from": "insight"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
     "via": ["parameters", "insight"],
     "from": "parameters"
   }
