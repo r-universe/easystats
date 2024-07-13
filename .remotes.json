@@ -4,11 +4,5 @@
     "url": "https://github.com/easystats/bayestestR",
     "via": ["parameters"],
     "from": "parameters"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["performance"],
-    "from": "performance"
   }
 ]
