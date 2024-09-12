@@ -12,6 +12,12 @@
     "from": "insight"
   },
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["parameters", "insight"],
+    "from": "parameters"
+  },
+  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["bayestestR"],
@@ -22,6 +28,12 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["insight", "bayestestR"],
     "from": "insight"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["parameters", "insight", "bayestestR"],
+    "from": "parameters"
   },
   {
     "package": "insight",
