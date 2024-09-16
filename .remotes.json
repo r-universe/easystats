@@ -56,6 +56,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["bayestestR", "insight"],
+    "from": "bayestestR"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["datawizard", "insight"],
     "from": "datawizard"
   },
