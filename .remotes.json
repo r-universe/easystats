@@ -8,7 +8,7 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters", "insight"],
+    "via": ["parameters"],
     "from": "parameters"
   },
   {
@@ -20,7 +20,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["parameters", "insight", "bayestestR"],
+    "via": ["parameters", "bayestestR"],
     "from": "parameters"
   },
   {
