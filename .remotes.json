@@ -2,20 +2,8 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
     "via": ["see", "parameters"],
     "from": "see"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["parameters", "bayestestR"],
-    "from": "parameters"
   },
   {
     "package": "datawizard",
@@ -36,12 +24,6 @@
     "via": ["see", "performance"],
     "subdir": "glmmTMB",
     "from": "see"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters", "bayestestR"],
-    "from": "parameters"
   },
   {
     "package": "insight",
