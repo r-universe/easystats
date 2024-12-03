@@ -20,7 +20,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["see", "parameters"],
+    "via": ["see", "performance"],
     "from": "see"
   },
   {
@@ -74,7 +74,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["see", "performance"],
+    "via": ["see", "performance", "datawizard"],
     "from": "see"
   },
   {
