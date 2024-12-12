@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["report"],
+    "from": "report"
+  },
+  {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
     "via": ["bayestestR"],
@@ -20,8 +26,20 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["report", "see", "performance"],
+    "from": "report"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["see", "performance"],
     "from": "see"
+  },
+  {
+    "package": "effectsize",
+    "url": "https://github.com/easystats/effectsize",
+    "via": ["report"],
+    "from": "report"
   },
   {
     "package": "insight",
@@ -80,6 +98,12 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
+    "via": ["report", "see"],
+    "from": "report"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
     "via": ["see"],
     "from": "see"
   },
@@ -88,6 +112,12 @@
     "url": "https://github.com/easystats/performance",
     "via": ["parameters"],
     "from": "parameters"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["report", "see"],
+    "from": "report"
   },
   {
     "package": "performance",
@@ -106,5 +136,11 @@
     "url": "https://github.com/easystats/see",
     "via": ["performance"],
     "from": "performance"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["report"],
+    "from": "report"
   }
 ]
