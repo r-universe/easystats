@@ -26,7 +26,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["report", "see", "performance"],
+    "via": ["report"],
     "from": "report"
   },
   {
@@ -34,12 +34,6 @@
     "url": "https://github.com/easystats/datawizard",
     "via": ["see", "performance"],
     "from": "see"
-  },
-  {
-    "package": "effectsize",
-    "url": "https://github.com/easystats/effectsize",
-    "via": ["report"],
-    "from": "report"
   },
   {
     "package": "insight",
@@ -80,7 +74,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["report"],
+    "via": ["report", "datawizard"],
     "from": "report"
   },
   {
@@ -98,7 +92,7 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
-    "via": ["report", "see"],
+    "via": ["report"],
     "from": "report"
   },
   {
@@ -116,7 +110,7 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["report", "see"],
+    "via": ["report", "parameters"],
     "from": "report"
   },
   {
@@ -140,7 +134,7 @@
   {
     "package": "see",
     "url": "https://github.com/easystats/see",
-    "via": ["report"],
+    "via": ["report", "parameters", "performance"],
     "from": "report"
   }
 ]
