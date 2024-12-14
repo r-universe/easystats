@@ -98,6 +98,12 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["datawizard", "insight"],
+    "from": "datawizard"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["insight"],
     "from": "insight"
   },
