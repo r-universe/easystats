@@ -114,6 +114,12 @@
     "from": "modelbased"
   },
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["parameters", "datawizard", "insight"],
+    "from": "parameters"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["performance", "see"],
