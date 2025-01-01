@@ -144,6 +144,12 @@
     "from": "report"
   },
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["see", "performance", "datawizard", "insight"],
+    "from": "see"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["performance", "see"],
