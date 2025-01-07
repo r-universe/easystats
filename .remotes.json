@@ -202,5 +202,11 @@
     "url": "https://github.com/easystats/see",
     "via": ["report", "parameters", "performance"],
     "from": "report"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["modelbased", "insight", "marginaleffects"],
+    "from": "modelbased"
   }
 ]
