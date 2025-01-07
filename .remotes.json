@@ -214,5 +214,11 @@
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["modelbased", "insight", "marginaleffects"],
     "from": "modelbased"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["parameters", "insight", "marginaleffects"],
+    "from": "parameters"
   }
 ]
