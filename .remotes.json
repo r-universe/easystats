@@ -226,5 +226,11 @@
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["parameters", "insight", "marginaleffects"],
     "from": "parameters"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["performance", "datawizard", "insight", "marginaleffects"],
+    "from": "performance"
   }
 ]
