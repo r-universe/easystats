@@ -104,7 +104,7 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["modelbased", "insight"],
+    "via": ["modelbased", "bayestestR"],
     "from": "modelbased"
   },
   {
@@ -206,7 +206,7 @@
   {
     "package": "tinysnapshot",
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["modelbased", "insight", "marginaleffects"],
+    "via": ["modelbased", "bayestestR", "marginaleffects"],
     "from": "modelbased"
   },
   {
