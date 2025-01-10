@@ -116,12 +116,6 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["insight"],
-    "from": "insight"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased", "insight"],
     "from": "modelbased"
   },
@@ -226,12 +220,6 @@
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["datawizard", "insight", "marginaleffects"],
     "from": "datawizard"
-  },
-  {
-    "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["insight", "marginaleffects"],
-    "from": "insight"
   },
   {
     "package": "tinysnapshot",
