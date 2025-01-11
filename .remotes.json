@@ -32,7 +32,7 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["performance"],
+    "via": ["performance", "see"],
     "from": "performance"
   },
   {
@@ -68,12 +68,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["performance", "datawizard"],
-    "from": "performance"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["report", "datawizard"],
     "from": "report"
   },
@@ -100,12 +94,6 @@
     "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased", "bayestestR"],
     "from": "modelbased"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["performance", "datawizard", "insight"],
-    "from": "performance"
   },
   {
     "package": "marginaleffects",
@@ -196,12 +184,6 @@
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
     "via": ["modelbased", "bayestestR", "marginaleffects"],
     "from": "modelbased"
-  },
-  {
-    "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["performance", "datawizard", "insight", "marginaleffects"],
-    "from": "performance"
   },
   {
     "package": "tinysnapshot",
