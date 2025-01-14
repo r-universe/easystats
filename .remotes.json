@@ -128,12 +128,6 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["modelbased", "parameters"],
-    "from": "modelbased"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
     "via": ["report", "parameters"],
     "from": "report"
   },
@@ -142,12 +136,6 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["modelbased", "parameters", "performance"],
-    "from": "modelbased"
   },
   {
     "package": "see",
