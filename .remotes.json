@@ -26,12 +26,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["parameters", "performance", "see"],
-    "from": "parameters"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["performance", "see"],
     "from": "performance"
   },
@@ -140,12 +134,6 @@
   {
     "package": "performance",
     "url": "https://github.com/easystats/performance",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
     "via": ["report", "parameters"],
     "from": "report"
   },
@@ -160,12 +148,6 @@
     "url": "https://github.com/easystats/see",
     "via": ["modelbased", "parameters", "performance"],
     "from": "modelbased"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["parameters", "performance"],
-    "from": "parameters"
   },
   {
     "package": "see",
