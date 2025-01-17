@@ -14,12 +14,6 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
-    "via": ["modelbased", "bayestestR"],
-    "from": "modelbased"
-  },
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
     "via": ["report"],
     "from": "report"
   },
@@ -44,7 +38,7 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["modelbased", "bayestestR"],
+    "via": ["modelbased"],
     "from": "modelbased"
   },
   {
@@ -74,7 +68,7 @@
   {
     "package": "tinysnapshot",
     "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["modelbased", "bayestestR", "marginaleffects"],
+    "via": ["modelbased", "marginaleffects"],
     "from": "modelbased"
   }
 ]
