@@ -32,12 +32,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR", "datawizard"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["correlation"],
     "from": "correlation"
   },
@@ -50,7 +44,7 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["bayestestR", "datawizard", "insight"],
+    "via": ["bayestestR"],
     "from": "bayestestR"
   },
   {
@@ -88,6 +82,12 @@
     "url": "https://github.com/easystats/see",
     "via": ["report", "parameters", "performance"],
     "from": "report"
+  },
+  {
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["bayestestR", "marginaleffects"],
+    "from": "bayestestR"
   },
   {
     "package": "tinysnapshot",
