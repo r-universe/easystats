@@ -32,12 +32,6 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["modelbased"],
-    "from": "modelbased"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["report", "datawizard", "insight"],
     "from": "report"
   },
@@ -58,11 +52,5 @@
     "url": "https://github.com/easystats/see",
     "via": ["report", "parameters", "performance"],
     "from": "report"
-  },
-  {
-    "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["modelbased", "marginaleffects"],
-    "from": "modelbased"
   }
 ]

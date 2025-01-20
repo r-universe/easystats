@@ -39,7 +39,3 @@
 [submodule "see"]
 	path = see
 	url = https://github.com/easystats/see
-[submodule "tinysnapshot"]
-	path = tinysnapshot
-	url = https://github.com/vincentarelbundock/tinysnapshot
-	registered = false
