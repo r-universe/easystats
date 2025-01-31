@@ -8,12 +8,6 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["correlation", "insight"],
-    "from": "correlation"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased"],
     "from": "modelbased"
   }
