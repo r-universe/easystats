@@ -20,10 +20,6 @@
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
-[submodule "marginaleffects"]
-	path = marginaleffects
-	url = https://github.com/vincentarelbundock/marginaleffects
-	registered = false
 [submodule "modelbased"]
 	path = modelbased
 	url = https://github.com/easystats/modelbased
