@@ -8,7 +8,19 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["easystats", "modelbased"],
+    "from": "easystats"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["easystats"],
+    "from": "easystats"
   }
 ]
