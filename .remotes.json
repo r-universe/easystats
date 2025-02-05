@@ -4,11 +4,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["correlation"],
     "from": "correlation"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["easystats"],
-    "from": "easystats"
   }
 ]
