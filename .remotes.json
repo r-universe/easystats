@@ -16,5 +16,11 @@
     "url": "https://github.com/easystats/modelbased",
     "via": ["insight"],
     "from": "insight"
+  },
+  {
+    "package": "see",
+    "url": "https://github.com/easystats/see",
+    "via": ["modelbased"],
+    "from": "modelbased"
   }
 ]
