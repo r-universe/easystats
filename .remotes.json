@@ -18,22 +18,10 @@
     "from": "correlation"
   },
   {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["insight"],
-    "from": "insight"
-  },
-  {
     "package": "see",
     "url": "https://github.com/easystats/see",
     "via": ["correlation", "insight", "modelbased"],
     "from": "correlation"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["insight", "modelbased"],
-    "from": "insight"
   },
   {
     "package": "see",
