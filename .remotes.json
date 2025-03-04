@@ -2,26 +2,8 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["correlation"],
-    "from": "correlation"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["correlation", "insight"],
-    "from": "correlation"
-  },
-  {
-    "package": "see",
-    "url": "https://github.com/easystats/see",
-    "via": ["correlation", "insight", "modelbased"],
-    "from": "correlation"
   },
   {
     "package": "see",
