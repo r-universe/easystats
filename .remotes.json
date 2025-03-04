@@ -8,7 +8,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["modelbased", "parameters"],
+    "via": ["modelbased"],
     "from": "modelbased"
   },
   {
