@@ -14,7 +14,7 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["modelbased", "bayestestR"],
+    "via": ["modelbased"],
     "from": "modelbased"
   },
   {
