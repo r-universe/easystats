@@ -17,6 +17,11 @@
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	subdir = glmmTMB
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
