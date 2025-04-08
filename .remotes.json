@@ -30,6 +30,18 @@
     "from": "performance"
   },
   {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["bayestestR", "modelbased"],
+    "from": "bayestestR"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["modelbased"],
