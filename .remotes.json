@@ -20,6 +20,12 @@
   {
     "package": "datawizard",
     "url": "https://github.com/easystats/datawizard",
+    "via": ["modelbased", "bayestestR"],
+    "from": "modelbased"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
     "via": ["parameters", "bayestestR", "modelbased"],
     "from": "parameters"
   },
