@@ -12,12 +12,6 @@
     "from": "modelbased"
   },
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["datawizard", "bayestestR", "modelbased"],
@@ -32,12 +26,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["performance"],
     "from": "performance"
   },
@@ -46,12 +34,6 @@
     "url": "https://github.com/easystats/modelbased",
     "via": ["datawizard", "bayestestR"],
     "from": "datawizard"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["parameters", "bayestestR"],
-    "from": "parameters"
   },
   {
     "package": "parameters",
