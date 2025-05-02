@@ -2,7 +2,19 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["performance"],
     "from": "performance"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
   }
 ]
