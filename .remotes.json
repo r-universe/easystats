@@ -36,6 +36,12 @@
     "from": "performance"
   },
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["bayestestR"],
