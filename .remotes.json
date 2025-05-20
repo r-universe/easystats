@@ -50,6 +50,12 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["insight"],
+    "from": "insight"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased"],
     "from": "modelbased"
   },
