@@ -1,0 +1,8 @@
+[
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  }
+]
