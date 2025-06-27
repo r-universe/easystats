@@ -24,6 +24,12 @@
     "from": "see"
   },
   {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
