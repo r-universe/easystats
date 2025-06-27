@@ -30,6 +30,12 @@
     "from": "parameters"
   },
   {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["performance", "parameters"],
+    "from": "performance"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
