@@ -26,6 +26,12 @@
   {
     "package": "correlation",
     "url": "https://github.com/easystats/correlation",
+    "via": ["modelbased", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
     "via": ["parameters"],
     "from": "parameters"
   },
