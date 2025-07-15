@@ -1,17 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["see", "parameters"],
-    "from": "see"
-  },
-  {
-    "package": "correlation",
-    "url": "https://github.com/easystats/correlation",
-    "via": ["see", "parameters"],
-    "from": "see"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["see"],
