@@ -2,6 +2,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["modelbased"],
+    "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["parameters"],
     "from": "parameters"
   },
@@ -16,6 +22,12 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["insight"],
     "from": "insight"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["modelbased", "insight"],
+    "from": "modelbased"
   },
   {
     "package": "parameters",
