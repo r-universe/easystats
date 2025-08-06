@@ -76,5 +76,11 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "tinytable",
+    "url": "https://github.com/vincentarelbundock/tinytable",
+    "via": ["insight"],
+    "from": "insight"
   }
 ]

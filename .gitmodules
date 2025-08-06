@@ -35,3 +35,7 @@
 [submodule "see"]
 	path = see
 	url = https://github.com/easystats/see
+[submodule "tinytable"]
+	path = tinytable
+	url = https://github.com/vincentarelbundock/tinytable
+	registered = false
