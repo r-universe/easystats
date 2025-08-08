@@ -82,5 +82,11 @@
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["insight"],
     "from": "insight"
+  },
+  {
+    "package": "tinytable",
+    "url": "https://github.com/vincentarelbundock/tinytable",
+    "via": ["modelbased", "insight"],
+    "from": "modelbased"
   }
 ]
