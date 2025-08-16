@@ -92,6 +92,12 @@
   {
     "package": "tinytable",
     "url": "https://github.com/vincentarelbundock/tinytable",
+    "via": ["parameters", "insight"],
+    "from": "parameters"
+  },
+  {
+    "package": "tinytable",
+    "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["performance", "insight"],
     "from": "performance"
   },
