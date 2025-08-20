@@ -14,12 +14,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["performance"],
     "from": "performance"
   },
@@ -76,12 +70,6 @@
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["modelbased", "insight"],
     "from": "modelbased"
-  },
-  {
-    "package": "tinytable",
-    "url": "https://github.com/vincentarelbundock/tinytable",
-    "via": ["parameters", "insight"],
-    "from": "parameters"
   },
   {
     "package": "tinytable",
