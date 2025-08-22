@@ -38,7 +38,7 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
-    "via": ["report", "insight"],
+    "via": ["report"],
     "from": "report"
   },
   {
@@ -64,11 +64,5 @@
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["modelbased", "insight"],
     "from": "modelbased"
-  },
-  {
-    "package": "tinytable",
-    "url": "https://github.com/vincentarelbundock/tinytable",
-    "via": ["report", "insight"],
-    "from": "report"
   }
 ]
