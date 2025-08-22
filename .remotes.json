@@ -20,12 +20,6 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["performance"],
-    "from": "performance"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
   },
@@ -40,12 +34,6 @@
     "url": "https://github.com/easystats/parameters",
     "via": ["modelbased", "insight"],
     "from": "modelbased"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["performance", "insight"],
-    "from": "performance"
   },
   {
     "package": "parameters",
@@ -76,12 +64,6 @@
     "url": "https://github.com/vincentarelbundock/tinytable",
     "via": ["modelbased", "insight"],
     "from": "modelbased"
-  },
-  {
-    "package": "tinytable",
-    "url": "https://github.com/vincentarelbundock/tinytable",
-    "via": ["performance", "insight"],
-    "from": "performance"
   },
   {
     "package": "tinytable",
