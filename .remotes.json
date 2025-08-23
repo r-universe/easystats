@@ -30,6 +30,12 @@
     "from": "see"
   },
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["insight"],
+    "from": "insight"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["modelbased", "insight"],
