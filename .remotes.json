@@ -8,6 +8,12 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
   },
@@ -28,6 +34,12 @@
     "url": "https://github.com/easystats/insight",
     "via": ["see"],
     "from": "see"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["bayestestR", "insight"],
+    "from": "bayestestR"
   },
   {
     "package": "marginaleffects",
