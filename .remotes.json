@@ -60,6 +60,12 @@
     "from": "parameters"
   },
   {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
     "via": ["modelbased", "insight"],
