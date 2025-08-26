@@ -2,6 +2,12 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
+    "via": ["modelbased", "parameters"],
+    "from": "modelbased"
+  },
+  {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
     "via": ["parameters"],
     "from": "parameters"
   },
@@ -56,6 +62,12 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["modelbased", "insight"],
+    "from": "modelbased"
+  },
+  {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["parameters", "insight"],
     "from": "parameters"
   },
@@ -68,7 +80,7 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
-    "via": ["modelbased", "insight"],
+    "via": ["modelbased"],
     "from": "modelbased"
   },
   {
@@ -94,11 +106,5 @@
     "url": "https://github.com/easystats/performance",
     "via": ["see"],
     "from": "see"
-  },
-  {
-    "package": "tinytable",
-    "url": "https://github.com/vincentarelbundock/tinytable",
-    "via": ["modelbased", "insight"],
-    "from": "modelbased"
   }
 ]
