@@ -14,7 +14,7 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["parameters"],
+    "via": ["parameters", "insight", "modelbased"],
     "from": "parameters"
   },
   {
@@ -86,7 +86,7 @@
   {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
-    "via": ["parameters"],
+    "via": ["parameters", "insight"],
     "from": "parameters"
   },
   {
