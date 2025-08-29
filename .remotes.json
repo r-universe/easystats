@@ -20,7 +20,7 @@
   {
     "package": "bayestestR",
     "url": "https://github.com/easystats/bayestestR",
-    "via": ["report", "insight", "modelbased", "parameters"],
+    "via": ["report"],
     "from": "report"
   },
   {
@@ -74,7 +74,7 @@
   {
     "package": "marginaleffects",
     "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["report", "insight"],
+    "via": ["report", "parameters", "modelbased"],
     "from": "report"
   },
   {
@@ -92,7 +92,7 @@
   {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
-    "via": ["report", "insight"],
+    "via": ["report", "parameters"],
     "from": "report"
   },
   {
@@ -110,7 +110,7 @@
   {
     "package": "parameters",
     "url": "https://github.com/easystats/parameters",
-    "via": ["report", "insight", "modelbased"],
+    "via": ["report"],
     "from": "report"
   },
   {
