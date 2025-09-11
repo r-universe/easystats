@@ -12,8 +12,8 @@
     "from": "report"
   },
   {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased"],
     "from": "modelbased"
   },
