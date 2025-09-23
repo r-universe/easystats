@@ -8,14 +8,14 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
     "via": ["modelbased"],
     "from": "modelbased"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["report"],
+    "from": "report"
   },
   {
     "package": "parameters",
