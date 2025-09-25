@@ -14,8 +14,20 @@
   {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
+    "via": ["parameters"],
+    "from": "parameters"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
     "via": ["report"],
     "from": "report"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["parameters"],
+    "from": "parameters"
   },
   {
     "package": "parameters",
