@@ -1,11 +1,5 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["easystats"],
@@ -24,33 +18,9 @@
     "from": "parameters"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
     "package": "modelbased",
     "url": "https://github.com/easystats/modelbased",
     "via": ["parameters"],
     "from": "parameters"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["report", "parameters"],
-    "from": "report"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["report"],
-    "from": "report"
-  },
-  {
-    "package": "performance",
-    "url": "https://github.com/easystats/performance",
-    "via": ["report"],
-    "from": "report"
   }
 ]
