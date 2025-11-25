@@ -10,17 +10,5 @@
     "url": "https://github.com/easystats/insight",
     "via": ["modelbased"],
     "from": "modelbased"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["parameters"],
-    "from": "parameters"
-  },
-  {
-    "package": "modelbased",
-    "url": "https://github.com/easystats/modelbased",
-    "via": ["parameters"],
-    "from": "parameters"
   }
 ]
